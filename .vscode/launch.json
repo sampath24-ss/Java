@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Examples",
+            "request": "launch",
+            "mainClass": "OOP.Examples",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "OOP.Main",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam",
+            "request": "launch",
+            "mainClass": "Sorting.Exam",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam5",
+            "request": "launch",
+            "mainClass": "Exam5",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam4",
+            "request": "launch",
+            "mainClass": "Exam4",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam3",
+            "request": "launch",
+            "mainClass": "Exam3",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam2",
+            "request": "launch",
+            "mainClass": "Exam2",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam",
+            "request": "launch",
+            "mainClass": "Exam",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Abstract.Main",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Polymorphism.Main",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queueex",
+            "request": "launch",
+            "mainClass": "StacksandQueue.Queueex",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularQueues",
+            "request": "launch",
+            "mainClass": "StacksandQueue.CircularQueues",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queues",
+            "request": "launch",
+            "mainClass": "Stacks.Queues",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack1",
+            "request": "launch",
+            "mainClass": "Stack1",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashma",
+            "request": "launch",
+            "mainClass": "Hashma",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashset",
+            "request": "launch",
+            "mainClass": "Hashset",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam",
+            "request": "launch",
+            "mainClass": "Inheritance.Junit.Exam",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam2",
+            "request": "launch",
+            "mainClass": "Inheritance.Junit.Exam2",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Junitexample",
+            "request": "launch",
+            "mainClass": "Inheritance.Junit.Junitexample",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Inheritance.Main",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Object",
+            "request": "launch",
+            "mainClass": "Object",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greethings",
+            "request": "launch",
+            "mainClass": "Sampath.Greethings",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Message",
+            "request": "launch",
+            "mainClass": "Sampath.Message",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam(1)",
+            "request": "launch",
+            "mainClass": "StaticExample.Exam",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example1",
+            "request": "launch",
+            "mainClass": "StaticExample.Example1",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Innerclass",
+            "request": "launch",
+            "mainClass": "StaticExample.Innerclass",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "StaticExample.Main",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch Staticblock",
+            "request": "launch",
+            "mainClass": "StaticExample.Staticblock",
+            "projectName": "Classes.java_799ec205"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExample",
+            "request": "launch",
+            "mainClass": "StringExample",
+            "projectName": "Classes.java_799ec205"
+        }
+    ]
+}
